@@ -1,0 +1,53 @@
+name: Aktualizuj feed dla Meble.pl
+
+on:
+  schedule:
+    # 04:30 UTC = 06:30 w Polsce (05:30 w czasie zimowym).
+    # FeedFix generuje plik wieczorem, więc o tej porze dane są świeże.
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Tryb publikacji"
+        required: true
+        default: categorized
+        type: choice
+        options:
+          - categorized
+          - all
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zbuduj feed.xml
+        env:
+          FEED_SOURCE_URL: ${{ secrets.FEED_SOURCE_URL }}
+          FEED_MODE: ${{ inputs.mode || vars.FEED_MODE || 'categorized' }}
+        run: python scripts/build_feed.py
+
+      - name: Commituj, jeśli się zmienił
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- feed.xml; then
+            echo "Brak zmian w feed.xml."
+            exit 0
+          fi
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "feed: aktualizacja $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
