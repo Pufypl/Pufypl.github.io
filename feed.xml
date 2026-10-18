@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <oferta>
-  <data_utworzenia>2026-10-16 20:28:52</data_utworzenia>
+  <data_utworzenia>2026-10-17 20:29:49</data_utworzenia>
   <produkty>
     <produkt>
       <id>55932612542846</id>
@@ -16591,679 +16591,6 @@
 <koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">22.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">27.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">22.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">22.0</koszt></koszty_transportu>
     </produkt>
     <produkt>
-      <id>55932181381502</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E1 biały]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181381502</atrybut>
-        <atrybut nazwa="EAN">5900779611986</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181578110</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E6 czerwony]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE6_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181578110</atrybut>
-        <atrybut nazwa="EAN">5900779612037</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181643646</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E9 zielony]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE9_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181643646</atrybut>
-        <atrybut nazwa="EAN">5900779612068</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181741950</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E10 niebieski]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE10_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181741950</atrybut>
-        <atrybut nazwa="EAN">5900779612075</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181905790</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E14 czarny]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE14_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181905790</atrybut>
-        <atrybut nazwa="EAN">5900779612112</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181938558</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E15 popielaty]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181938558</atrybut>
-        <atrybut nazwa="EAN">5900779612129</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932181971326</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E16 limonkowy]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE16_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932181971326</atrybut>
-        <atrybut nazwa="EAN">5900779612136</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932182004094</id>
-      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E17 cappucino]]></nazwa>
-      <cena_brutto>427.00</cena_brutto>
-      <sciezka><![CDATA[Worek]]></sciezka>
-      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE17_1.jpg?v=1791975439]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932182004094</atrybut>
-        <atrybut nazwa="EAN">5900779612143</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932760392062</id>
-      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 23]]></nazwa>
-      <cena_brutto>426.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25564.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932760392062</atrybut>
-        <atrybut nazwa="EAN"/>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[300 MILLILITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>55932760424830</id>
-      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 03]]></nazwa>
-      <cena_brutto>426.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25551.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932760424830</atrybut>
-        <atrybut nazwa="EAN"/>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[300 MILLILITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>55932760457598</id>
-      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 91]]></nazwa>
-      <cena_brutto>426.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932760457598</atrybut>
-        <atrybut nazwa="EAN"/>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[300 MILLILITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>56992089440638</id>
-      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - Grafitowy]]></nazwa>
-      <cena_brutto>426.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">56992089440638</atrybut>
-        <atrybut nazwa="EAN">5900779642232</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[300 MILLILITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
       <id>55931965997438</id>
       <nazwa><![CDATA[Pufa Sakwa L Poliester - NC1 / Poliester]]></nazwa>
       <cena_brutto>364.00</cena_brutto>
@@ -18433,6 +17760,679 @@
         </cecha>
       </cechy>
       <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181381502</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E1 biały]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181381502</atrybut>
+        <atrybut nazwa="EAN">5900779611986</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181578110</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E6 czerwony]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE6_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181578110</atrybut>
+        <atrybut nazwa="EAN">5900779612037</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181643646</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E9 zielony]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE9_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181643646</atrybut>
+        <atrybut nazwa="EAN">5900779612068</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181741950</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E10 niebieski]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE10_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181741950</atrybut>
+        <atrybut nazwa="EAN">5900779612075</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181905790</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E14 czarny]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE14_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181905790</atrybut>
+        <atrybut nazwa="EAN">5900779612112</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181938558</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E15 popielaty]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181938558</atrybut>
+        <atrybut nazwa="EAN">5900779612129</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932181971326</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E16 limonkowy]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE16_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932181971326</atrybut>
+        <atrybut nazwa="EAN">5900779612136</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932182004094</id>
+      <nazwa><![CDATA[Pufa Sakwa L Ekoskóra - E17 cappucino]]></nazwa>
+      <cena_brutto>427.00</cena_brutto>
+      <sciezka><![CDATA[Worek]]></sciezka>
+      <opis><![CDATA[Pufa Sakwa L Ekoskóra Jeśli siedzieć, to tylko wygodnie. Każdego, kto zgadza się z tym stwierdzeniem, powinna zainteresować pufa Sakwa L Ekoskóra, która cechuje się sprężystością, praktycznością i nieszablonowością. Siedzenie na niej to czysta przyjemność. Jednak nasz mebel może służyć także do zabawy czy gimnastyki, ponieważ to model wielofunkcyjny. Oryginalne wykonanie oraz wysokiej jakości materiały wykorzystane przy produkcji pozwoliły na stworzenie produktu modnego i trwałego, a więc takiego, który mimo upływu czasu nie straci na wyglądzie i na funkcjonalności. Dzięki oryginalnemu kształtowi i szerokiej gamie kolorów, każdy może wybrać wersję dostosowaną do własnego gustu i do wystroju wnętrza. Pufa Sakwa L to idealne rozwiązanie nie tylko dla mieszkań, ale również dla wnętrz mieszczących się w obiektach użytku publicznego.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE17_1.jpg?v=1791975439]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_4.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALEKOSKORAARANZACJE_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-wielkosci-PL_076ddc88-3491-45d1-b641-2ad7277127e1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/Sakwa-kolory-PL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15MODEL.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE1_E14_E15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_5.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_1.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_2.jpg?v=1791975438]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/SAKWALE15_3.jpg?v=1791975439]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-sakwa-l-1]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932182004094</atrybut>
+        <atrybut nazwa="EAN">5900779612143</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932760392062</id>
+      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 23]]></nazwa>
+      <cena_brutto>426.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25564.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932760392062</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[300 MILLILITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932760424830</id>
+      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 03]]></nazwa>
+      <cena_brutto>426.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25551.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932760424830</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[300 MILLILITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932760457598</id>
+      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - 91]]></nazwa>
+      <cena_brutto>426.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932760457598</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[300 MILLILITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>56992089440638</id>
+      <nazwa><![CDATA[Pufa Yeti Lapit + Podnóżek - Grafitowy]]></nazwa>
+      <cena_brutto>426.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[PODNÓŻEK gratis w kolorze pufy Pufa YetiPrzytulne wnętrze wraz ze spokojnym kącikiem do wypoczynku to marzenie wielu osób, które właśnie urządzają swoje mieszkanie. Pufa Yeti okaże się idealnym dodatkiem do nowoczesnej aranżacji. Jej największą zaletą jest wypełnienie przy pomocy specjalistycznego granulatu, dzięki czemu siedzisko dostosowuje się do każdej pozycji ciała. Pufa została wykonana z materiału imitującego naturalne futro. To powoduje, że siedzisko idealnie będzie się prezentować we wnętrzach skandynawskich, nordyckich oraz tych cechujących się minimalizmem.Siedzisko doskonale sprawdzi się jako mebel wypoczynkowy dla całej rodziny. Pufa z łatwością może być przenoszona nawet przez małe dzieci. Siedzisko jest wyjątkowo lekkie, a dodatkowo posiada wygodny uchwyt. Ponadto małe dzieci uwielbiają tego typu siedziska, ponieważ sprawdzają się jako jeden z głównych elementów ich kreatywnych zabaw. Wybierz jeden z 3 pastelowych odcieni, który będzie perfekcyjnie pasować do Twojego mieszkania. W zestawie znajduje się podnóżek (gratis)!PODNÓŻEK gratis w kolorze pufy 50 l granulatu Szerokość:45 cm Wysokość: 34 cm]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_2.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_3.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_1.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0001.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/IMG-20260227-WA0000.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_7.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_4_b829ade5-189f-4223-8af6-4189e82a4df5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_5.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/YETIGRAFIT_6.jpg?v=1772187856]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/25559.jpg?v=1772187856]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-yeti-lapit]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">56992089440638</atrybut>
+        <atrybut nazwa="EAN">5900779642232</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[Dzianina futerkowa krótki włos]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[300 MILLILITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
     </produkt>
     <produkt>
       <id>55932192522622</id>
@@ -38272,6 +38272,153 @@
       <dostepnosc>7</dostepnosc>
     </produkt>
     <produkt>
+      <id>55932605596030</id>
+      <nazwa><![CDATA[Fotel Tom - F]]></nazwa>
+      <cena_brutto>109.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932605596030</atrybut>
+        <atrybut nazwa="EAN">5900779629301</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932605661566</id>
+      <nazwa><![CDATA[Fotel Tom - SZ]]></nazwa>
+      <cena_brutto>109.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932605661566</atrybut>
+        <atrybut nazwa="EAN">5900779629332</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932605694334</id>
+      <nazwa><![CDATA[Fotel Tom - Z]]></nazwa>
+      <cena_brutto>109.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932605694334</atrybut>
+        <atrybut nazwa="EAN">5900779629349</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
       <id>55932329886078</id>
       <nazwa><![CDATA[Fotel Solid Poliester - NC1]]></nazwa>
       <cena_brutto>298.00</cena_brutto>
@@ -39132,153 +39279,6 @@
       <atrybuty>
         <atrybut nazwa="Kod">55932330377598</atrybut>
         <atrybut nazwa="EAN">5900779606326</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932605596030</id>
-      <nazwa><![CDATA[Fotel Tom - F]]></nazwa>
-      <cena_brutto>109.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932605596030</atrybut>
-        <atrybut nazwa="EAN">5900779629301</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932605661566</id>
-      <nazwa><![CDATA[Fotel Tom - SZ]]></nazwa>
-      <cena_brutto>109.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932605661566</atrybut>
-        <atrybut nazwa="EAN">5900779629332</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932605694334</id>
-      <nazwa><![CDATA[Fotel Tom - Z]]></nazwa>
-      <cena_brutto>109.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel TomKażde dziecko, które miało okazję obejrzeć kreskówkę „Gadający Tom i Przyjaciele”, z pewnością od razu zakochało się w głównych bohaterach: Tomie i Angeli. Tom to sympatyczny, pręgowany kot, a jego największym marzeniem jest zostanie prawdziwą gwiazdą. Natomiast Angela to kotka stawiająca pierwsze kroki na scenie muzyki pop. Dlatego właśnie powstała seria mebli z tymi rozpoznawalnymi ulubieńcami dzieci.Niesamowity fotel Tom to jeden z mebli wchodzących w skład słynnej kolekcji puf „Talking Tom”. Wyjątkowo wygodne siedzisko zostało zaprojektowane w taki sposób, aby idealnie pasowało do każdego pokoju dziecięcego. Mebel jest w pełni bezpieczny, a także wyróżnia się niesamowitą lekkością, przez co może być przesuwany nawet przez najmłodszych. Dodatkowym ułatwieniem jest również uchwyt, dzięki któremu można przenosić mebel w dowolne miejsce. Fotel pozbawiony jest wszelkich niebezpiecznych i ostrych krawędzi. Bardzo dużą zaletą jest to, iż siedzisko zapewnia prawidłową postawę dziecka. Poliestrowy materiał, z którego wykonano fotel, jest nie tylko bardzo przyjemny w dotyku, lecz także nie sprawia żadnych problemów podczas jego czyszczenia.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20528.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20529.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20523.jpg?v=1772022489]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/20527.jpg?v=1772022489]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-talking-tom]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932605694334</atrybut>
-        <atrybut nazwa="EAN">5900779629349</atrybut>
       </atrybuty>
       <cechy>
         <cecha nazwa="Materiał:">
@@ -61909,6 +61909,266 @@
       <dostepnosc>7</dostepnosc>
     </produkt>
     <produkt>
+      <id>55932323463550</id>
+      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A44]]></nazwa>
+      <cena_brutto>202.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932323463550</atrybut>
+        <atrybut nazwa="EAN">5900779611160</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>55932323496318</id>
+      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A45]]></nazwa>
+      <cena_brutto>202.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932323496318</atrybut>
+        <atrybut nazwa="EAN">5900779611177</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>58202329743742</id>
+      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A46]]></nazwa>
+      <cena_brutto>202.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">58202329743742</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>58202330169726</id>
+      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A84]]></nazwa>
+      <cena_brutto>202.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">58202330169726</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
+      <id>58202330464638</id>
+      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A6]]></nazwa>
+      <cena_brutto>202.00</cena_brutto>
+      <sciezka><![CDATA[Pufa]]></sciezka>
+      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">58202330464638</atrybut>
+        <atrybut nazwa="EAN"/>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+    </produkt>
+    <produkt>
       <id>55932226929022</id>
       <nazwa><![CDATA[Fotel Undo Amore Plusz - A6]]></nazwa>
       <cena_brutto>486.00</cena_brutto>
@@ -67691,266 +67951,6 @@
       <atrybuty>
         <atrybut nazwa="Kod">55932350267774</atrybut>
         <atrybut nazwa="EAN">5900779618121</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932323463550</id>
-      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A44]]></nazwa>
-      <cena_brutto>202.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932323463550</atrybut>
-        <atrybut nazwa="EAN">5900779611160</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>55932323496318</id>
-      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A45]]></nazwa>
-      <cena_brutto>202.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932323496318</atrybut>
-        <atrybut nazwa="EAN">5900779611177</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>58202329743742</id>
-      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A46]]></nazwa>
-      <cena_brutto>202.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">58202329743742</atrybut>
-        <atrybut nazwa="EAN"/>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>58202330169726</id>
-      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A84]]></nazwa>
-      <cena_brutto>202.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">58202330169726</atrybut>
-        <atrybut nazwa="EAN"/>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-    </produkt>
-    <produkt>
-      <id>58202330464638</id>
-      <nazwa><![CDATA[Pufa Island Mini Amore Plusz - A6]]></nazwa>
-      <cena_brutto>202.00</cena_brutto>
-      <sciezka><![CDATA[Pufa]]></sciezka>
-      <opis><![CDATA[Fotel Island Mini pufa Odpoczynek na prawdziwej wyspie? Odkryj świat wyobraźni dziecka i przekonaj się, jak bardzo komfortowy i wielofunkcyjny może być Fotel Island Mini pufa. Wykończenie siedziska jest wykonane z miękkiego i przyjemnego w dotyku pluszu, który oferuje dodatkowe doznania relaksacyjne i jest dostępny w wielu ciekawych kolorach. Fotel Island Mini pufa jest lekki i bezpieczny w użytkowaniu nawet przez najmłodszych, dlatego stanowi doskonałe wyposażenie pokoju dziecięcego. Może służyć za fotel, wygodny materac do leżenia, a nawet mini stolik lub biurko oraz plac zabaw. Jego wypełnienie sprawia, że można go dowolnie formować, a siedzisko idealnie dopasowuje się do pozycji użytkownika. Daje to doskonałe podparcie pleców, a tym samym zapewnia wyjątkowy relaks, który pozwoli się odprężyć i wyciszyć.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_3.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A46.jpg?v=1791878743]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14290.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/14291.jpg?v=1752162386]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6_4.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/ISLANDMINIA6ROGAL_2.jpg?v=1791878736]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/A84.jpg?v=1791878848]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/pufa-island-mini-amore-plusz]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">58202330464638</atrybut>
-        <atrybut nazwa="EAN"/>
       </atrybuty>
       <cechy>
         <cecha nazwa="Materiał:">
