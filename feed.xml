@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <oferta>
-  <data_utworzenia>2026-10-31 20:40:59</data_utworzenia>
+  <data_utworzenia>2026-11-01 20:41:46</data_utworzenia>
   <produkty>
     <produkt>
       <id>55932612542846</id>
@@ -1707,232 +1707,6 @@
 <koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
     </produkt>
     <produkt>
-      <id>55932776284542</id>
-      <nazwa><![CDATA[Fotel Massimo Bukla - SV06]]></nazwa>
-      <cena_brutto>550.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27622.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932776284542</atrybut>
-        <atrybut nazwa="EAN">5900779632059</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[100% pes]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[400 LITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[PZH]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[6 miesięcy ]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[24 miesiące]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>55932776317310</id>
-      <nazwa><![CDATA[Fotel Massimo Bukla - SV23]]></nazwa>
-      <cena_brutto>550.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27615.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932776317310</atrybut>
-        <atrybut nazwa="EAN">5900779632066</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[100% pes]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[400 LITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[PZH]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[6 miesięcy ]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[24 miesiące]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>55932776350078</id>
-      <nazwa><![CDATA[Fotel Massimo Bukla - SV28]]></nazwa>
-      <cena_brutto>550.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932776350078</atrybut>
-        <atrybut nazwa="EAN">5900779632073</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[100% pes]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[400 LITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[PZH]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[6 miesięcy ]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[24 miesiące]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
-      <id>55932776382846</id>
-      <nazwa><![CDATA[Fotel Massimo Bukla - SV47]]></nazwa>
-      <cena_brutto>550.00</cena_brutto>
-      <sciezka><![CDATA[Fotel]]></sciezka>
-      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
-      <zdjecia>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
-        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
-      </zdjecia>
-      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
-      <producent><![CDATA[Furini]]></producent>
-      <atrybuty>
-        <atrybut nazwa="Kod">55932776382846</atrybut>
-        <atrybut nazwa="EAN">5900779632080</atrybut>
-      </atrybuty>
-      <cechy>
-        <cecha nazwa="Materiał:">
-          <definicja><![CDATA[100% pes]]></definicja>
-        </cecha>
-        <cecha nazwa="Wysokość:">
-          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Wypełnienie:">
-          <definicja><![CDATA[400 LITERS]]></definicja>
-        </cecha>
-        <cecha nazwa="Posiada atest:">
-          <definicja><![CDATA[PZH]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja wypełnienie:">
-          <definicja><![CDATA[6 miesięcy ]]></definicja>
-        </cecha>
-        <cecha nazwa="Gwarancja pokrowiec:">
-          <definicja><![CDATA[24 miesiące]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (przedpłata):">
-          <definicja><![CDATA[35.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
-          <definicja><![CDATA[40.0]]></definicja>
-        </cecha>
-        <cecha nazwa="Maksymalna ilość w przesyłce:">
-          <definicja><![CDATA[1]]></definicja>
-        </cecha>
-      </cechy>
-      <dostepnosc>7</dostepnosc>
-<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
-    </produkt>
-    <produkt>
       <id>55932449620350</id>
       <nazwa><![CDATA[Fotel Flavio Sztruks - SZ03]]></nazwa>
       <cena_brutto>272.16</cena_brutto>
@@ -2768,6 +2542,232 @@
         </cecha>
         <cecha nazwa="Gwarancja wypełnienie:">
           <definicja><![CDATA[6 miesięcy]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[24 miesiące]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932776284542</id>
+      <nazwa><![CDATA[Fotel Massimo Bukla - SV06]]></nazwa>
+      <cena_brutto>550.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27622.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932776284542</atrybut>
+        <atrybut nazwa="EAN">5900779632059</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[100% pes]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[400 LITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[PZH]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[6 miesięcy ]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[24 miesiące]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932776317310</id>
+      <nazwa><![CDATA[Fotel Massimo Bukla - SV23]]></nazwa>
+      <cena_brutto>550.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27615.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932776317310</atrybut>
+        <atrybut nazwa="EAN">5900779632066</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[100% pes]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[400 LITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[PZH]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[6 miesięcy ]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[24 miesiące]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932776350078</id>
+      <nazwa><![CDATA[Fotel Massimo Bukla - SV28]]></nazwa>
+      <cena_brutto>550.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932776350078</atrybut>
+        <atrybut nazwa="EAN">5900779632073</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[100% pes]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[400 LITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[PZH]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[6 miesięcy ]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja pokrowiec:">
+          <definicja><![CDATA[24 miesiące]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (przedpłata):">
+          <definicja><![CDATA[35.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Koszt wysyłki (płatność przy odbiorze):">
+          <definicja><![CDATA[40.0]]></definicja>
+        </cecha>
+        <cecha nazwa="Maksymalna ilość w przesyłce:">
+          <definicja><![CDATA[1]]></definicja>
+        </cecha>
+      </cechy>
+      <dostepnosc>7</dostepnosc>
+<koszty_transportu><koszt wysylka="Kurier" platnosc="przelew" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="pobranie" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">40.0</koszt><koszt wysylka="Kurier" platnosc="e-platnosc" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt><koszt wysylka="Kurier" platnosc="raty" koszt-kolejna-sztuka="0" ilosc-w-paczce="1">35.0</koszt></koszty_transportu>
+    </produkt>
+    <produkt>
+      <id>55932776382846</id>
+      <nazwa><![CDATA[Fotel Massimo Bukla - SV47]]></nazwa>
+      <cena_brutto>550.00</cena_brutto>
+      <sciezka><![CDATA[Fotel]]></sciezka>
+      <opis><![CDATA[Fotel Massimo to duża pufa wypoczynkowa, która z powodzeniem zastąpi niewygodne i twarde krzesła w salonie, ale też świetnie sprawdzi się w przedpokoju, pokoju dziecięcym lub młodzieżowym. Wygodny model o wymiarach 95 x 95 centymetrów jest szczególnie dedykowany wysokim osobom. Szeroka podstawa z wyraźnie zarysowanym siedziskiem oraz doskonale wyprofilowane, wysokie oparcie doskonale zachęcają do wypoczynku. Starannie wykonany fotel to świetna dekoracja, która wniesie do każdego wnętrza powiew nowoczesności. Relaksacyjny fotel Massimo to polski produkt wykonany z największą dokładnością z najlepszej jakości miękkiej i przyjemnej w dotyku tkaniny. Wysoki poziom relaksu zapewnia styropianowe wypełnienie, które sprawia, że w prezentowanym fotelu siedzi się bardzo wygodnie i stabilnie, a pufa delikatnie oplata ciało użytkownika. Mebel dostępny jest w kilku modnych kolorach, więc z pewnością dobierzesz idealny dla siebie odcień. Bez względu na miejsce, w którym postawisz fotel Massimo wprowadza on bardzo przytulną atmosferę.]]></opis>
+      <zdjecia>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27607.jpg?v=1752166141]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/29230.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27608.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27605.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27604.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27612.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27609.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27606.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27611.jpg?v=1763543312]]></zdjecie>
+        <zdjecie><![CDATA[https://cdn.shopify.com/s/files/1/0941/5793/0878/files/27610.jpg?v=1763543312]]></zdjecie>
+      </zdjecia>
+      <link><![CDATA[https://pufy.pl/products/fotel-massimo-bukla]]></link>
+      <producent><![CDATA[Furini]]></producent>
+      <atrybuty>
+        <atrybut nazwa="Kod">55932776382846</atrybut>
+        <atrybut nazwa="EAN">5900779632080</atrybut>
+      </atrybuty>
+      <cechy>
+        <cecha nazwa="Materiał:">
+          <definicja><![CDATA[100% pes]]></definicja>
+        </cecha>
+        <cecha nazwa="Wysokość:">
+          <definicja><![CDATA[95 CENTIMETERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Wypełnienie:">
+          <definicja><![CDATA[400 LITERS]]></definicja>
+        </cecha>
+        <cecha nazwa="Posiada atest:">
+          <definicja><![CDATA[PZH]]></definicja>
+        </cecha>
+        <cecha nazwa="Gwarancja wypełnienie:">
+          <definicja><![CDATA[6 miesięcy ]]></definicja>
         </cecha>
         <cecha nazwa="Gwarancja pokrowiec:">
           <definicja><![CDATA[24 miesiące]]></definicja>
